@@ -1,0 +1,437 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "abc124",
+          "name": "Giang"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "abc124",
+          "name": "Giang"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "abc124",
+          "name": "Giang"
+        }
+      ]
+    },
+    {
+      "id": 49471,
+      "attendees": [
+        null
+      ],
+      "date": "2020-09-02T04:19:00.000Z",
+      "time": "8:30",
+      "location": "a",
+      "title": "a",
+      "category": "sustainability",
+      "description": "a",
+      "organizer": ""
+    },
+    {
+      "id": 78029,
+      "attendees": [
+        {
+          "id": 1,
+          "name": "giang"
+        }
+      ],
+      "date": "2020-09-10T04:23:00.000Z",
+      "time": "8:30",
+      "location": "a",
+      "title": "a",
+      "category": "animal welfare",
+      "description": "a",
+      "organizer": ""
+    },
+    {
+      "id": 39753,
+      "attendees": [
+        {
+          "id": 1,
+          "name": "giang"
+        }
+      ],
+      "date": "2020-09-10T06:26:00.000Z",
+      "time": "8:30",
+      "location": "cau giay",
+      "title": "quet don",
+      "category": "nature",
+      "description": "don",
+      "organizer": ""
+    },
+    {
+      "id": 30524,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "2020-09-02T08:38:00.000Z",
+      "time": "8:30",
+      "location": "ad",
+      "title": "a",
+      "category": "nature",
+      "description": "ađá",
+      "organizer": ""
+    },
+    {
+      "id": 75183,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "2020-09-02T08:43:00.000Z",
+      "time": "7:30",
+      "location": "1",
+      "title": "1",
+      "category": "sustainability",
+      "description": "1",
+      "organizer": ""
+    },
+    {
+      "id": 49200,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 10620,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 36653,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "function () { [native code] }": "",
+      "id": 78030
+    },
+    {
+      "id": 26652,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 8238,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 58214,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 47202,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 57568,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 56811,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 6246,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 91946,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 52959,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 56284,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 41075,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 50772,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    },
+    {
+      "id": 29070,
+      "attendees": [
+        {
+          "user": {
+            "id": 1,
+            "name": "giang"
+          }
+        }
+      ],
+      "date": "",
+      "time": "",
+      "location": "",
+      "title": "",
+      "category": "",
+      "description": "",
+      "organizer": ""
+    }
+  ]
+}

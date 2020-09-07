@@ -1,16 +1,20 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link :to="{ name: 'Home' }">Home</router-link>|
-      <router-link :to="{ name: 'About' }">About</router-link>|
-      <router-link :to="{ name: 'User', params: { username: 'Giang' } }">User</router-link>|
-      <router-link :to="{ name: 'event-list' }">Event List</router-link>|
-      <router-link :to="{ name: 'event-create' }">Event Create</router-link>|
-    </div>
+    <NavBar />
+    <NotificationContainer />
     <router-view />
   </div>
 </template>
-
+<script>
+import NavBar from '@/components/NavBar.vue'
+import NotificationContainer from '@/components/NotificationContainer.vue'
+export default {
+  components: {
+    NavBar,
+    NotificationContainer
+  }
+}
+</script>
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
