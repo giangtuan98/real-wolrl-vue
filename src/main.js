@@ -6,9 +6,9 @@ import router from './router'
 import store from './store/store'
 import BaseIcon from '@/components/BaseIcon'
 import Vuelidate from 'vuelidate'
-import DateFiler from './filters/date'
+import DateFilter from './filters/date'
 
-Vue.filter('date', DateFiler)
+Vue.filter('date', DateFilter)
 
 import 'nprogress/nprogress.css'
 
@@ -24,7 +24,7 @@ const requireComponent = require.context(
   /Base[A-Z]\w+\.(vue|js)$/
 )
 
-requireComponent.keys().forEach((fileName) => {
+requireComponent.keys().forEach(fileName => {
   const componentConfig = requireComponent(fileName)
 
   const componentName = upperFirst(
@@ -37,5 +37,5 @@ requireComponent.keys().forEach((fileName) => {
 new Vue({
   router,
   store,
-  render: (h) => h(App),
+  render: h => h(App)
 }).$mount('#app')
